@@ -67,7 +67,7 @@ return [
     <h7 align="center">Import database hiring-backend.sql </h7>
     <br><br>
     <a href="https://github.com/yiisoft" target="_blank">
-        <img src="https://raw.githubusercontent.com/nikophreaker/yii2-hiring-backend/main/ss%2Bdb%5BUntouched%20db%5D/db1.JPG" height="200px">
+        <img src="https://raw.githubusercontent.com/nikophreaker/yii2-hiring-backend/main/ss%2Bdb%5BUntouched%20db%5D/importdb.JPG" height="200px">
     </a>
     <br>
 </p>
