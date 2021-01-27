@@ -105,7 +105,7 @@ Download [Postman](https://www.postman.com/downloads/).
 ---
 
 <p align="center">
-    <h5>Creating User</h5>
+    <h3>Creating User</h3>
     <br><br>
     <a href="https://github.com/yiisoft" target="_blank">
         <img src="https://raw.githubusercontent.com/nikophreaker/yii2-hiring-backend/main/ss%2Bdb%5BUntouched%20db%5D/register-hiring.JPG" height="400px">
@@ -114,7 +114,7 @@ Download [Postman](https://www.postman.com/downloads/).
 </p>
 
 <p align="center">
-    <h5>Login User</h5>
+    <h3>Login User</h3>
     <br>
     <h7>Don't forget to save your token</h7>
     <br><br>
@@ -125,7 +125,7 @@ Download [Postman](https://www.postman.com/downloads/).
 </p>
 
 <p align="center">
-    <h5>Setting token</h5>
+    <h3>Setting token</h3>
     <br>
     <h7>Change type authorization to Bearer Token and place your token to Token field</h7>
     <br><br>
@@ -136,7 +136,7 @@ Download [Postman](https://www.postman.com/downloads/).
 </p>
 
 <p align="center">
-    <h5>Create Session</h5>
+    <h3>Create Session</h3>
     <br>
     <h7>Input key and values like an image</h7>
     <br><br>
@@ -147,7 +147,7 @@ Download [Postman](https://www.postman.com/downloads/).
 </p>
 
 <p align="center">
-    <h5>Edit Session</h5>
+    <h3>Edit Session</h3>
     <br>
     <h7>Set id on params from exist data Session and edit it throught </h7> `x-www-form-urlencoded`
     <br><br>
@@ -158,7 +158,7 @@ Download [Postman](https://www.postman.com/downloads/).
 </p>
 
 <p align="center">
-    <h5>Delete Session</h5>
+    <h3>Delete Session</h3>
     <br>
     <h7>Set id on params from exist data Session</h7>
     <br><br>
@@ -169,7 +169,7 @@ Download [Postman](https://www.postman.com/downloads/).
 </p>
 
 <p align="center">
-    <h5>Viewing Detail Session</h5>
+    <h3>Viewing Detail Session</h3>
     <br>
     <h7>You need token if you using v1 endpoint</h7>
     <br><br>
@@ -180,7 +180,7 @@ Download [Postman](https://www.postman.com/downloads/).
 </p>
 
 <p align="center">
-    <h5>List Session</h5>
+    <h3>List Session</h3>
     <br>
     <h7>You need token if you using v1 endpoint</h7>
     <br><br>
