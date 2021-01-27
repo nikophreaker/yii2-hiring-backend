@@ -1,5 +1,6 @@
 {
     "name": "nikxphreaker/yii2-hiring-backend",
+    "version": "v1.0",
     "description": "Yii 2 RESTful API",
     "keywords": ["yii2", "framework", "API", "RESTful"],
     "license": "BSD-3-Clause",
