@@ -54,6 +54,25 @@ return [
 
 ```
 
+<p align="center">
+    <h7 align="center">Create new database</h7>
+    <br><br>
+    <a href="https://github.com/yiisoft" target="_blank">
+        <img src="https://raw.githubusercontent.com/nikophreaker/yii2-hiring-backend/main/ss%2Bdb%5BUntouched%20db%5D/db1.JPG" height="400px">
+    </a>
+    <br>
+</p>
+
+<p align="center">
+    <h7 align="center">Import database hiring-backend.sql </h7>
+    <br><br>
+    <a href="https://github.com/yiisoft" target="_blank">
+        <img src="https://raw.githubusercontent.com/nikophreaker/yii2-hiring-backend/main/ss%2Bdb%5BUntouched%20db%5D/db1.JPG" height="400px">
+    </a>
+    <br>
+</p>
+
+
 # Running API
 
 ```bash
@@ -79,8 +98,8 @@ Since this template use MicroFramework approach, directory structure might be a 
 ---
 
 <p align="center">
-    <h7 align="center">Creating User</h7>
-    <br>
+    <h5 align="center">Creating User</h5>
+    <br><br>
     <a href="https://github.com/yiisoft" target="_blank">
         <img src="https://raw.githubusercontent.com/nikophreaker/yii2-hiring-backend/main/ss%2Bdb%5BUntouched%20db%5D/register-hiring.JPG" height="400px">
     </a>
@@ -88,15 +107,24 @@ Since this template use MicroFramework approach, directory structure might be a 
 </p>
 
 <p align="center">
-    <h7 align="center">Login User</h7>
+    <h5 align="center">Login User</h5>
     <h7 align="center">Don't forget to save your token</h7>
-    <br>
+    <br><br>
     <a href="https://github.com/yiisoft" target="_blank">
         <img src="https://raw.githubusercontent.com/nikophreaker/yii2-hiring-backend/main/ss%2Bdb%5BUntouched%20db%5D/login-hiring.JPG" height="400px">
     </a>
     <br>
 </p>
 
+<p align="center">
+    <h5 align="center">Login User</h5>
+    <h7 align="center">Don't forget to save your token</h7>
+    <br><br>
+    <a href="https://github.com/yiisoft" target="_blank">
+        <img src="https://raw.githubusercontent.com/nikophreaker/yii2-hiring-backend/main/ss%2Bdb%5BUntouched%20db%5D/login-hiring.JPG" height="400px">
+    </a>
+    <br>
+</p>
 
 ## Supported Authentication
 
