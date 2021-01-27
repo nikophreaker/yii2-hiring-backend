@@ -105,89 +105,89 @@ Download [Postman](https://www.postman.com/downloads/).
 ---
 
 <p align="center">
-    <h5 align="center">Creating User</h5>
+    <h5>Creating User</h5>
     <br><br>
     <a href="https://github.com/yiisoft" target="_blank">
         <img src="https://raw.githubusercontent.com/nikophreaker/yii2-hiring-backend/main/ss%2Bdb%5BUntouched%20db%5D/register-hiring.JPG" height="400px">
     </a>
-    <br><br><br>
+    <br><br><br><br><br>
 </p>
 
 <p align="center">
-    <h5 align="center">Login User</h5>
+    <h5>Login User</h5>
     <br>
-    <h7 align="center">Don't forget to save your token</h7>
+    <h7>Don't forget to save your token</h7>
     <br><br>
     <a href="https://github.com/yiisoft" target="_blank">
         <img src="https://raw.githubusercontent.com/nikophreaker/yii2-hiring-backend/main/ss%2Bdb%5BUntouched%20db%5D/login-hiring.JPG" height="400px">
     </a>
-    <br><br><br>
+    <br><br><br><br><br>
 </p>
 
 <p align="center">
-    <h5 align="center">Setting token</h5>
+    <h5>Setting token</h5>
     <br>
-    <h7 align="center">Change type authorization to Bearer Token and place your token to Token field</h7>
+    <h7>Change type authorization to Bearer Token and place your token to Token field</h7>
     <br><br>
     <a href="https://github.com/yiisoft" target="_blank">
         <img src="https://raw.githubusercontent.com/nikophreaker/yii2-hiring-backend/main/ss%2Bdb%5BUntouched%20db%5D/bearer-token.JPG" height="400px">
     </a>
-    <br><br><br>
+    <br><br><br><br><br>
 </p>
 
 <p align="center">
-    <h5 align="center">Create Session</h5>
+    <h5>Create Session</h5>
     <br>
-    <h7 align="center">Input key and values like an image</h7>
+    <h7>Input key and values like an image</h7>
     <br><br>
     <a href="https://github.com/yiisoft" target="_blank">
         <img src="https://raw.githubusercontent.com/nikophreaker/yii2-hiring-backend/main/ss%2Bdb%5BUntouched%20db%5D/create-hiring.JPG" height="400px">
     </a>
-    <br><br><br>
+    <br><br><br><br><br>
 </p>
 
 <p align="center">
-    <h5 align="center">Edit Session</h5>
+    <h5>Edit Session</h5>
     <br>
-    <h7 align="center">Set id on params from exist data Session and edit it throught </h7> `x-www-form-urlencoded`
+    <h7>Set id on params from exist data Session and edit it throught </h7> `x-www-form-urlencoded`
     <br><br>
     <a href="https://github.com/yiisoft" target="_blank">
         <img src="https://raw.githubusercontent.com/nikophreaker/yii2-hiring-backend/main/ss%2Bdb%5BUntouched%20db%5D/update-hiring.JPG" height="400px">
     </a>
-    <br><br><br>
+    <br><br><br><br><br>
 </p>
 
 <p align="center">
-    <h5 align="center">Delete Session</h5>
+    <h5>Delete Session</h5>
     <br>
-    <h7 align="center">Set id on params from exist data Session</h7>
+    <h7>Set id on params from exist data Session</h7>
     <br><br>
     <a href="https://github.com/yiisoft" target="_blank">
         <img src="https://raw.githubusercontent.com/nikophreaker/yii2-hiring-backend/main/ss%2Bdb%5BUntouched%20db%5D/delete-hiring.JPG" height="400px">
     </a>
-    <br><br><br>
+    <br><br><br><br><br>
 </p>
 
 <p align="center">
-    <h5 align="center">Viewing Detail Session</h5>
+    <h5>Viewing Detail Session</h5>
     <br>
-    <h7 align="center">You need token if you using v1 endpoint</h7>
+    <h7>You need token if you using v1 endpoint</h7>
     <br><br>
     <a href="https://github.com/yiisoft" target="_blank">
         <img src="https://raw.githubusercontent.com/nikophreaker/yii2-hiring-backend/main/ss%2Bdb%5BUntouched%20db%5D/view-hiring.JPG" height="400px">
     </a>
-    <br><br><br>
+    <br><br><br><br><br>
 </p>
 
 <p align="center">
-    <h5 align="center">List Session</h5>
+    <h5>List Session</h5>
     <br>
-    <h7 align="center">You need token if you using v1 endpoint</h7>
+    <h7>You need token if you using v1 endpoint</h7>
     <br><br>
     <a href="https://github.com/yiisoft" target="_blank">
         <img src="https://raw.githubusercontent.com/nikophreaker/yii2-hiring-backend/main/ss%2Bdb%5BUntouched%20db%5D/List-hiring.JPG" height="400px">
     </a>
-    <br><br><br>
+    <br><br><br><br><br>
 </p>
 
 ## Supported Authentication
