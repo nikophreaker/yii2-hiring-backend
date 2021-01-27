@@ -1,0 +1,21 @@
+{
+    "name": "nikxphreaker/yii2-hiring-backend",
+    "description": "Yii 2 RESTful API",
+    "keywords": ["yii2", "framework", "API", "RESTful"],
+    "license": "BSD-3-Clause",
+    "require": {
+        "yiisoft/yii2": "~2.0.14"
+    },
+    "authors": [
+        {
+            "name": "Niko Prayoga Wiratama",
+            "email": "nikx449@gmail.com"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://asset-packagist.org"
+        }
+    ]
+}
