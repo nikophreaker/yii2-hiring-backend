@@ -58,7 +58,7 @@ return [
     <h7 align="center">Create new database</h7>
     <br><br>
     <a href="https://github.com/yiisoft" target="_blank">
-        <img src="https://raw.githubusercontent.com/nikophreaker/yii2-hiring-backend/main/ss%2Bdb%5BUntouched%20db%5D/db1.JPG" height="400px">
+        <img src="https://raw.githubusercontent.com/nikophreaker/yii2-hiring-backend/main/ss%2Bdb%5BUntouched%20db%5D/db1.JPG" height="200px">
     </a>
     <br>
 </p>
@@ -67,7 +67,7 @@ return [
     <h7 align="center">Import database hiring-backend.sql </h7>
     <br><br>
     <a href="https://github.com/yiisoft" target="_blank">
-        <img src="https://raw.githubusercontent.com/nikophreaker/yii2-hiring-backend/main/ss%2Bdb%5BUntouched%20db%5D/db1.JPG" height="400px">
+        <img src="https://raw.githubusercontent.com/nikophreaker/yii2-hiring-backend/main/ss%2Bdb%5BUntouched%20db%5D/db1.JPG" height="200px">
     </a>
     <br>
 </p>
@@ -93,6 +93,13 @@ Since this template use MicroFramework approach, directory structure might be a 
       vendor/             contains dependent 3rd-party packages
       web/                contains the entry script and Web resources
 
+# Test Using Postman
+
+---
+
+Download [Postman](https://www.postman.com/downloads/).
+
+
 # API Scenario
 
 ---
@@ -108,6 +115,7 @@ Since this template use MicroFramework approach, directory structure might be a 
 
 <p align="center">
     <h5 align="center">Login User</h5>
+    <br>
     <h7 align="center">Don't forget to save your token</h7>
     <br><br>
     <a href="https://github.com/yiisoft" target="_blank">
@@ -117,11 +125,67 @@ Since this template use MicroFramework approach, directory structure might be a 
 </p>
 
 <p align="center">
-    <h5 align="center">Login User</h5>
-    <h7 align="center">Don't forget to save your token</h7>
+    <h5 align="center">Setting token</h5>
+    <br>
+    <h7 align="center">Change type authorization to Bearer Token and place your token to Token field</h7>
     <br><br>
     <a href="https://github.com/yiisoft" target="_blank">
-        <img src="https://raw.githubusercontent.com/nikophreaker/yii2-hiring-backend/main/ss%2Bdb%5BUntouched%20db%5D/login-hiring.JPG" height="400px">
+        <img src="https://raw.githubusercontent.com/nikophreaker/yii2-hiring-backend/main/ss%2Bdb%5BUntouched%20db%5D/bearer-token.JPG" height="400px">
+    </a>
+    <br>
+</p>
+
+<p align="center">
+    <h5 align="center">Create Session</h5>
+    <br>
+    <h7 align="center">Input key and values like an image</h7>
+    <br><br>
+    <a href="https://github.com/yiisoft" target="_blank">
+        <img src="https://raw.githubusercontent.com/nikophreaker/yii2-hiring-backend/main/ss%2Bdb%5BUntouched%20db%5D/create-hiring.JPG" height="400px">
+    </a>
+    <br>
+</p>
+
+<p align="center">
+    <h5 align="center">Edit Session</h5>
+    <br>
+    <h7 align="center">Set id on params from exist data Session and edit it throught </h7> `x-www-form-urlencoded`
+    <br><br>
+    <a href="https://github.com/yiisoft" target="_blank">
+        <img src="https://raw.githubusercontent.com/nikophreaker/yii2-hiring-backend/main/ss%2Bdb%5BUntouched%20db%5D/update-hiring.JPG" height="400px">
+    </a>
+    <br>
+</p>
+
+<p align="center">
+    <h5 align="center">Delete Session</h5>
+    <br>
+    <h7 align="center">Set id on params from exist data Session</h7>
+    <br><br>
+    <a href="https://github.com/yiisoft" target="_blank">
+        <img src="https://raw.githubusercontent.com/nikophreaker/yii2-hiring-backend/main/ss%2Bdb%5BUntouched%20db%5D/delete-hiring.JPG" height="400px">
+    </a>
+    <br>
+</p>
+
+<p align="center">
+    <h5 align="center">Viewing Detail Session</h5>
+    <br>
+    <h7 align="center">You need token if you using v1 endpoint</h7>
+    <br><br>
+    <a href="https://github.com/yiisoft" target="_blank">
+        <img src="https://raw.githubusercontent.com/nikophreaker/yii2-hiring-backend/main/ss%2Bdb%5BUntouched%20db%5D/view-hiring.JPG" height="400px">
+    </a>
+    <br>
+</p>
+
+<p align="center">
+    <h5 align="center">List Session</h5>
+    <br>
+    <h7 align="center">You need token if you using v1 endpoint</h7>
+    <br><br>
+    <a href="https://github.com/yiisoft" target="_blank">
+        <img src="https://raw.githubusercontent.com/nikophreaker/yii2-hiring-backend/main/ss%2Bdb%5BUntouched%20db%5D/List-hiring.JPG" height="400px">
     </a>
     <br>
 </p>
@@ -166,6 +230,22 @@ This application manage token via cookie without storing to table or data in dat
 ```php
 public $tokenExpiration = 60 * 24 * 365; // in seconds
 ```
+
+<p align="center">
+    <h5 align="center">This cookies stored to your computer</h5>
+    <br>
+    <a href="https://github.com/yiisoft" target="_blank">
+        <img src="https://raw.githubusercontent.com/nikophreaker/yii2-hiring-backend/main/ss%2Bdb%5BUntouched%20db%5D/Cookies.JPG" height="400px">
+    </a>
+    <br>
+    <h7 align="center">if you want to delete all of this, you can using logout endpoint like this</h7>
+    <br><br>
+    <a href="https://github.com/yiisoft" target="_blank">
+        <img src="https://raw.githubusercontent.com/nikophreaker/yii2-hiring-backend/main/ss%2Bdb%5BUntouched%20db%5D/logout.JPG" height="400px">
+    </a>
+    <br>
+</p>
+
 
 ## API versioning
 
