@@ -12,6 +12,26 @@ Yii2 RESTful API
 This API using template from [Yii-api-template](https://github.com/hoaaah/yii2-rest-api-template).
 This is a a REST API TEMPLATE with Yii2. This template use [Yii2-Micro](https://github.com/hoaaah/yii2-micro) approach so it will be lightweight and easy to deploy.
 
+# Installation
+
+---
+Install [composer](http://getcomposer.org/download/).
+
+Install with git
+
+```bash
+git clone https://github.com/nikophreaker/yii2-hiring-backend.git [app-name]
+
+```
+
+To directory `[app-name]`
+
+```bash
+composer install
+
+```
+
+
 # Setup Database
 
 ---
@@ -34,6 +54,13 @@ return [
 
 ```
 
+# Running API
+
+```bash
+yii serve
+
+```
+
 # Directory Structure
 
 ---
@@ -50,6 +77,24 @@ Since this template use MicroFramework approach, directory structure might be a 
 # API Scenario
 
 ---
+
+<p align="center">
+    <h7 align="center">Creating User</h7>
+    <a href="https://github.com/yiisoft" target="_blank">
+        <img src="https://raw.githubusercontent.com/nikophreaker/yii2-hiring-backend/main/ss%2Bdb%5BUntouched%20db%5D/register-hiring.JPG" height="400px">
+    </a>
+    <br>
+</p>
+
+<p align="center">
+    <h7 align="center">Login User</h7>
+    <h7 align="center">Don't forget to save your token</h7>
+    <a href="https://github.com/yiisoft" target="_blank">
+        <img src="https://raw.githubusercontent.com/nikophreaker/yii2-hiring-backend/main/ss%2Bdb%5BUntouched%20db%5D/login-hiring.JPG" height="400px">
+    </a>
+    <br>
+</p>
+
 
 ## Supported Authentication
 
