@@ -110,7 +110,7 @@ Download [Postman](https://www.postman.com/downloads/).
     <a href="https://github.com/yiisoft" target="_blank">
         <img src="https://raw.githubusercontent.com/nikophreaker/yii2-hiring-backend/main/ss%2Bdb%5BUntouched%20db%5D/register-hiring.JPG" height="400px">
     </a>
-    <br>
+    <br><br><br>
 </p>
 
 <p align="center">
@@ -121,7 +121,7 @@ Download [Postman](https://www.postman.com/downloads/).
     <a href="https://github.com/yiisoft" target="_blank">
         <img src="https://raw.githubusercontent.com/nikophreaker/yii2-hiring-backend/main/ss%2Bdb%5BUntouched%20db%5D/login-hiring.JPG" height="400px">
     </a>
-    <br>
+    <br><br><br>
 </p>
 
 <p align="center">
@@ -132,7 +132,7 @@ Download [Postman](https://www.postman.com/downloads/).
     <a href="https://github.com/yiisoft" target="_blank">
         <img src="https://raw.githubusercontent.com/nikophreaker/yii2-hiring-backend/main/ss%2Bdb%5BUntouched%20db%5D/bearer-token.JPG" height="400px">
     </a>
-    <br>
+    <br><br><br>
 </p>
 
 <p align="center">
@@ -143,7 +143,7 @@ Download [Postman](https://www.postman.com/downloads/).
     <a href="https://github.com/yiisoft" target="_blank">
         <img src="https://raw.githubusercontent.com/nikophreaker/yii2-hiring-backend/main/ss%2Bdb%5BUntouched%20db%5D/create-hiring.JPG" height="400px">
     </a>
-    <br>
+    <br><br><br>
 </p>
 
 <p align="center">
@@ -154,7 +154,7 @@ Download [Postman](https://www.postman.com/downloads/).
     <a href="https://github.com/yiisoft" target="_blank">
         <img src="https://raw.githubusercontent.com/nikophreaker/yii2-hiring-backend/main/ss%2Bdb%5BUntouched%20db%5D/update-hiring.JPG" height="400px">
     </a>
-    <br>
+    <br><br><br>
 </p>
 
 <p align="center">
@@ -165,7 +165,7 @@ Download [Postman](https://www.postman.com/downloads/).
     <a href="https://github.com/yiisoft" target="_blank">
         <img src="https://raw.githubusercontent.com/nikophreaker/yii2-hiring-backend/main/ss%2Bdb%5BUntouched%20db%5D/delete-hiring.JPG" height="400px">
     </a>
-    <br>
+    <br><br><br>
 </p>
 
 <p align="center">
@@ -176,7 +176,7 @@ Download [Postman](https://www.postman.com/downloads/).
     <a href="https://github.com/yiisoft" target="_blank">
         <img src="https://raw.githubusercontent.com/nikophreaker/yii2-hiring-backend/main/ss%2Bdb%5BUntouched%20db%5D/view-hiring.JPG" height="400px">
     </a>
-    <br>
+    <br><br><br>
 </p>
 
 <p align="center">
@@ -187,7 +187,7 @@ Download [Postman](https://www.postman.com/downloads/).
     <a href="https://github.com/yiisoft" target="_blank">
         <img src="https://raw.githubusercontent.com/nikophreaker/yii2-hiring-backend/main/ss%2Bdb%5BUntouched%20db%5D/List-hiring.JPG" height="400px">
     </a>
-    <br>
+    <br><br><br>
 </p>
 
 ## Supported Authentication
