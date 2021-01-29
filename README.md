@@ -108,7 +108,7 @@ This template already have basic endpoint that you can use to start your REST-AP
 
 | Endpoint                                         | Type        | Usage                                                                            |
 | ------------------------------------------------ | ----------- | -------------------------------------------------------------------------------- |
-| https://localhost:8080/                          | GET         | list all session created                                                         |
+| https://localhost:8080/session                   | GET         | list all session created                                                         |
 | https://localhost:8080/view?id={id}              | POST        | View a session                                                                   |
 | https://localhost:8080/login                     | POST        | Login with username and password (stored 3 cookies include id, username & token) |
 | https://localhost:8080/signup                    | POST        | Signup with username, email and password                                         |
